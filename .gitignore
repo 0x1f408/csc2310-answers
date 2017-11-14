@@ -1,0 +1,6 @@
+# Editor files
+.idea
+*.iml
+
+# Compiled Java files
+*.class
